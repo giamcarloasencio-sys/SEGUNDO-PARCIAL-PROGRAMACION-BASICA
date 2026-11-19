@@ -1,6 +1,6 @@
 # SEGUNDO-PARCIAL-PROGRAMACION-BASICA
 
-Examen_Cafeteria_Giam
+Examen_Cafeteria_Giamcarlo
 
 Estudiante: Giamcarlo Asencio Robles
 Matrícula: [2025-3103]
