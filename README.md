@@ -40,8 +40,8 @@ Cómo ejecutarlo
 
 Requiere .NET 8 SDK (o Visual Studio 2022) en Windows.
 
-dotnet run
+
 Capturas de pantalla
-Datos de entrada: (agregar captura)
-Proceso (pedido con productos): (agregar captura)
-Salida (total calculado): (agregar captura)
+
+<img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/f6bbfc3a-72c8-4252-a454-044f59d94e43" />
+<img width="1298" height="716" alt="image" src="https://github.com/user-attachments/assets/9e108997-d863-4f8e-8dfe-89d8092622a4" />
