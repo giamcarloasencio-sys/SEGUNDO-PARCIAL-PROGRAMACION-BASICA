@@ -3,7 +3,9 @@
 Examen_Cafeteria_Giamcarlo
 
 Estudiante: Giamcarlo Asencio Robles
+
 Matrícula: [2025-3103]
+
 Asignatura: Lógica de Programación — Universidad Central del Este
 
 Descripción del programa
