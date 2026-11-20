@@ -45,3 +45,4 @@ Capturas de pantalla
 
 <img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/f6bbfc3a-72c8-4252-a454-044f59d94e43" />
 
+<img width="1303" height="721" alt="image" src="https://github.com/user-attachments/assets/242ce7ae-6b0c-4d7d-ab3f-1847010ccdc4" />
